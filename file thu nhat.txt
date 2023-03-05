@@ -1,8 +1,7 @@
 Đây là file thứ 1 máy tính 2
 
-sửa lần 3 máy tính 1
-
-sửa lần 3 máy tính 2
+sua lan thu 1 maytinh 1
+sua lan thu 1 maytinh 2
 
 Nội dung ngày học GIT GUI
 
