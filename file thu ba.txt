@@ -1,8 +1,14 @@
 day la file thu ba tao boi nhanvien C
 
 
+
 sua noi dung maytinh 3 main
 
 sua noi dung maytinh3 nhanvienC
 
 xung dot thu 2 main
+
+sua noi dung maytinh3 nhanvienC
+
+tao xung dot lan 2 nhanvienC
+
