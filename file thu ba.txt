@@ -1,9 +1,13 @@
 day la file thu ba tao boi nhanvien C
 
-
 xung dot lan 2 main
 
 tao xung dot lan 2 nhanvienC
 
 xung dot lan 3 main
+
+=======
+tao xung dot lan 2 nhanvienC
+
+tao xung dot lan 3 nhanvienC
 
