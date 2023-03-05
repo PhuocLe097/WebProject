@@ -1,10 +1,10 @@
 Đây là file thứ 1 máy tính 2
-sửa lần 1
-sửa lần 2
 
 sửa lần 3 máy tính 1
 
 sửa lần 3 máy tính 2
 
 Nội dung ngày học GIT GUI
+
+Noi dung sua doi lan 1
 
